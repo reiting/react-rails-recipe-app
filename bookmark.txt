@@ -1,0 +1,2 @@
+Step 7 — Viewing Recipes
+In this section, you will create components for viewing recipes. First you’ll create a page where you can view all existing recipes, and then another to view individual recipes.
